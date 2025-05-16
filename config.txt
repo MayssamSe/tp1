@@ -1,0 +1,2 @@
+net.mayssam.dao.DaoImpl
+net.mayssam.metier.MetierImpl
