@@ -161,16 +161,16 @@ System.out.println("RES=" + metier.calcul());
 Chaque mode d’injection imprime un résultat du calcul accompagné d’un message indiquant la source des données (`Version base de données` ou `Version capteurs ....`).
 
 ### Injection par constructeur
-![Pres1](images/pres1.png)
+![Pres1](images/pres1.PNG)
 
 ### Injection dynamique via Réflexion
-![Pres2](images/pres2.png)
+![Pres2](images/pres2.PNG)
 
 ### Spring – Injection avec Annotations
-![Spring Annotation](images/presSpringAn.png)
+![Spring Annotation](images/PresSpringAn.PNG)
 
 ### Spring – Injection avec XML
-![Spring XML](images/presSpringXML.png)
+![Spring XML](images/PresSpringXML.PNG)
 
 
 
